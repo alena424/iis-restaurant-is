@@ -1,0 +1,20 @@
+<div class = "container_fluid first_info">
+    <div class = "text_info">
+        <h2>WAWE</h2>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+            Fusce wisi. Integer lacinia. Suspendisse nisl. Temporibus autem quibusdam et aut officiis debitis aut rerum
+            necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. </p>
+        <label class = "vetsi_pismo">ID rezervace:</label>
+        <form method = "GET" action = "showReservation.php" >
+            <input type = text class = "my_input_form vetsi_pismo" name = "id_rezervace" id = "id_rezervace" placeholder = "XXXXX">
+            <p></p>
+            <button class = "red_but">ZOBRAZIT REZERVACI</button>
+        </form>
+    </div>
+</div>
+
+<div class = "container-fluid food_list">
+    <?php
+    include 'includes/dailyMenu.php';
+    ?>
+</div>

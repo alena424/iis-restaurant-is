@@ -1,0 +1,13 @@
+<?php include 'functions/formular.php';
+        ?>
+<div class="container-fluid food_list">
+            <h2>Přihlásit se</h2>
+            <form method="POST" action="loginCheck.php">
+                <?php
+                    $data[ 'login' ] = array( 'name' => 'Login', 'type' => 'text', 'force' => 1 );
+                    $data[ 'heslo' ] = array( 'name' => 'Heslo', 'type' => 'password', 'force' => 1 );   
+                    $info[ 'button_text' ] = "Přihlásit se";
+                    addFormular( $data, $info );
+                ?>
+            </form>
+        </div>
