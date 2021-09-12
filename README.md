@@ -1,5 +1,4 @@
 # Restaurace
-
 <dl>
 
 <dt>Autoři</dt>
@@ -114,37 +113,19 @@ Projekt jsme implementovali v jazyku PHP, nepoužívali jsme žádny PHP framewo
 *   žádný PHP framework
 *   responzivní web
 
-<figure class="obraz">[![Strana po přihlášení](doc_img/hlavni_strana.jpg)](doc_img/hlavni_strana.jpg)
+![Strana po přihlášení](doc_img/hlavni_strana.jpg)
 
-<figcaption>Obrázek 1: Zobrazena práva na záložky pro jednotlivé role</figcaption>
+[![Správa rezervací](doc_img/rezervace.jpg)](doc_img/rezervace.jpg)
 
-</figure>
+[![Správa objednávek](doc_img/objednavky.jpg)](doc_img/objednavky.jpg)
 
-<figure class="obraz">[![Správa rezervací](doc_img/rezervace.jpg)](doc_img/rezervace.jpg)
+[![Správa jídel](doc_img/jidelni-listek.jpg)](doc_img/jidelni-listek.jpg)
 
-<figcaption>Obrázek 2: Správa rezervací</figcaption>
-
-</figure>
-
-<figure class="obraz">[![Správa objednávek](doc_img/objednavky.jpg)](doc_img/objednavky.jpg)
-
-<figcaption>Obrázek 3: Správa objednávek</figcaption>
-
-</figure>
-
-<figure class="obraz">[![Správa jídel](doc_img/jidelni-listek.jpg)](doc_img/jidelni-listek.jpg)
-
-<figcaption>Obrázek 4: Správa jídel</figcaption>
-
-</figure>
-
-<figure class="obraz">[![Zaúčtované objednávky](doc_img/zauctovane.jpg)](doc_img/zauctovane.jpg)
+[![Zaúčtované objednávky](doc_img/zauctovane.jpg)](doc_img/zauctovane.jpg)
 
 <figcaption>Obrázek 5: Zaúčtované objednávky - vidí a může změnit pouze spolumajitel</figcaption>
 
-</figure>
-
-<figure class="obraz">[![Statistiky](doc_img/statistiky.jpg)](doc_img/statistiky.jpg)
+[![Statistiky](doc_img/statistiky.jpg)](doc_img/statistiky.jpg)
 
 <figcaption>Obrázek 6: Statistiky</figcaption>
 
@@ -161,11 +142,9 @@ Oproti návrhu databáze z IDS jsme museli pozměnili:
 *   vytvořili jsme novou tabulku pozice - podle daných pozic určujeme práva vstupu do záložek
 *   přidali jsme nový sloupec cislo to tabulky stul
 
-<figure class="">[![Schéma databáze](doc_img/IIS.png)](doc_img/IIS.png)
+[![Schéma databáze](doc_img/IIS.png)](doc_img/IIS.png)
 
 <figcaption style="text-align: left">Obrázek 7: Finální schéma databáze</figcaption>
-
-</figure>
 
 ## Instalace
 
