@@ -1,15 +1,15 @@
-# Restaurace
+# Informační systém pro restauraci
 <dl>
 
 <dt>Autoři</dt>
 
-<dd>Alena Tesařová [xtesar36@stud.fit.vutbr.cz](mailto:xtesar36@stud.fit.vutbr.cz) - správa uživatelů a uživatelské rozhraní</dd>
+Alena Tesařová [xtesar36@stud.fit.vutbr.cz](mailto:xtesar36@stud.fit.vutbr.cz) - správa uživatelů a uživatelské rozhraní
 
-<dd>Jan Šorm [xsormj00@stud.fit.vutbr.cz](mailto:xsormj00@stud.fit.vutbr.cz) - databázový subsystém</dd>
+Jan Šorm [xsormj00@stud.fit.vutbr.cz](mailto:xsormj00@stud.fit.vutbr.cz) - databázový subsystém
 
 <dt>URL aplikace</dt>
 
-<dd>[http://www.latanesa.cz](http://www.latanesa.cz)</dd>
+[http://www.latanesa.cz](http://www.latanesa.cz) (expired)
 
 </dl>
 
